@@ -1,6 +1,7 @@
 C:\Users\USUARIO\Documents\LSC\Proyectos\Test\CORE2\core3\leosc\obj\Release\netcoreapp3.1\PubTmp\Out\leosc.exe
 C:\Users\USUARIO\Documents\LSC\Proyectos\Test\CORE2\core3\leosc\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\site.css
 C:\Users\USUARIO\Documents\LSC\Proyectos\Test\CORE2\core3\leosc\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\favicon.ico
+C:\Users\USUARIO\Documents\LSC\Proyectos\Test\CORE2\core3\leosc\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\images\Curriculo hbran.pdf
 C:\Users\USUARIO\Documents\LSC\Proyectos\Test\CORE2\core3\leosc\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\images\hbran.JPG
 C:\Users\USUARIO\Documents\LSC\Proyectos\Test\CORE2\core3\leosc\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\images\logoLSC.png
 C:\Users\USUARIO\Documents\LSC\Proyectos\Test\CORE2\core3\leosc\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\images\logoMS.png

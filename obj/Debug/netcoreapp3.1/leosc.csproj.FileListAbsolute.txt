@@ -35,3 +35,4 @@ C:\Users\USUARIO\Documents\LSC\Proyectos\Test\CORE2\core3\leosc\obj\Debug\netcor
 C:\Users\USUARIO\Documents\LSC\Proyectos\Test\CORE2\core3\leosc\obj\Debug\netcoreapp3.1\leosc.pdb
 C:\Users\USUARIO\Documents\LSC\Proyectos\Test\CORE2\core3\leosc\obj\Debug\netcoreapp3.1\leosc.genruntimeconfig.cache
 C:\Users\USUARIO\Documents\LSC\Proyectos\Test\CORE2\core3\leosc\obj\Debug\netcoreapp3.1\leosc.csproj.CopyComplete
+C:\Users\USUARIO\Documents\LSC\Proyectos\Test\CORE2\core3\leosc\obj\Debug\netcoreapp3.1\leosc.csproj.AssemblyReference.cache
